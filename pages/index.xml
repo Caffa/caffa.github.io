@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Pamela Wang</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Pamela Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>Currently I am an AI 🎮 grad student in Singapore. I spend my free time reading webnovels and fanfics 📚 + trying to optimize my productivity system in Obsidian.
+TODO More indepth about me :) - I would like something like https://aliabdaal.com/about/ for layout of what I want this page to be like </description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>/pages/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/articles/</guid>
+      <description>Do like a curated guide to all my articles (see david perell)</description>
+    </item>
+    
+    <item>
+      <title>Log</title>
+      <link>/pages/log/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/log/</guid>
+      <description>Automated rollup archive of all my posts (by category?)</description>
+    </item>
+    
+    <item>
+      <title>Newsletter</title>
+      <link>/pages/newsletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/newsletter/</guid>
+      <description>Some place holder text
+Do a fancy phone thing + some nice border + some archived newsletters and signup email form</description>
+    </item>
+    
+  </channel>
+</rss>
