@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi (〃＾▽＾〃)/ on Pamela Wang</title>
-    <link>/</link>
+    <link>https://caffa.github.io/pamelawang.github.io/</link>
     <description>Recent content in Hi (〃＾▽＾〃)/ on Pamela Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/pamelawang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Weekly Review in Obsidian</title>
-      <link>/posts/my-blogpost-automated-weekly-review-in-obsidian/</link>
+      <link>https://caffa.github.io/pamelawang.github.io/posts/my-blogpost-automated-weekly-review-in-obsidian/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my-blogpost-automated-weekly-review-in-obsidian/</guid>
+      <guid>https://caffa.github.io/pamelawang.github.io/posts/my-blogpost-automated-weekly-review-in-obsidian/</guid>
       <description>mode:: #mode/youtuber🏙️ kind:: #Project/Articles📰 status:: #Status/Focus❗
 (post in progress, here are some quick notes) waiting for when I summarize YT Video - automated weekly review in obsidian and maybe the comment I had explaining where the weekly review fits into daily schedule
 What&amp;rsquo;s in a Weekly Review Purpose of the weekly review
@@ -23,38 +23,38 @@ Video I have a video on this at Obsidian Workflow: Speed up your Weekly Review -
     
     <item>
       <title>About</title>
-      <link>/pages/about/</link>
+      <link>https://caffa.github.io/pamelawang.github.io/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pages/about/</guid>
+      <guid>https://caffa.github.io/pamelawang.github.io/pages/about/</guid>
       <description>Currently I am an AI 🎮 grad student in Singapore. I spend my free time reading webnovels and fanfics 📚 + trying to optimize my productivity system in Obsidian.
 TODO More indepth about me :) - I would like something like https://aliabdaal.com/about/ for layout of what I want this page to be like </description>
     </item>
     
     <item>
       <title>Articles</title>
-      <link>/pages/articles/</link>
+      <link>https://caffa.github.io/pamelawang.github.io/pages/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pages/articles/</guid>
+      <guid>https://caffa.github.io/pamelawang.github.io/pages/articles/</guid>
       <description>Do like a curated guide to all my articles (see david perell)</description>
     </item>
     
     <item>
       <title>Log</title>
-      <link>/pages/log/</link>
+      <link>https://caffa.github.io/pamelawang.github.io/pages/log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pages/log/</guid>
+      <guid>https://caffa.github.io/pamelawang.github.io/pages/log/</guid>
       <description>Automated rollup archive of all my posts (by category?)</description>
     </item>
     
     <item>
       <title>Newsletter</title>
-      <link>/pages/newsletter/</link>
+      <link>https://caffa.github.io/pamelawang.github.io/pages/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pages/newsletter/</guid>
+      <guid>https://caffa.github.io/pamelawang.github.io/pages/newsletter/</guid>
       <description>Some place holder text
 Do a fancy phone thing + some nice border + some archived newsletters and signup email form</description>
     </item>
