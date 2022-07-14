@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Pamela Wang</title>
-    <link>https://caffa.github.io/pamelawang.github.io/pages/</link>
+    <link>https://caffa.github.io/pages/</link>
     <description>Recent content in Pages on Pamela Wang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://caffa.github.io/pamelawang.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://caffa.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://caffa.github.io/pamelawang.github.io/pages/about/</link>
+      <link>https://caffa.github.io/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://caffa.github.io/pamelawang.github.io/pages/about/</guid>
+      <guid>https://caffa.github.io/pages/about/</guid>
       <description>Currently I am an AI 🎮 grad student in Singapore. I spend my free time reading webnovels and fanfics 📚 + trying to optimize my productivity system in Obsidian.
 TODO More indepth about me :) - I would like something like https://aliabdaal.com/about/ for layout of what I want this page to be like </description>
     </item>
     
     <item>
       <title>Articles</title>
-      <link>https://caffa.github.io/pamelawang.github.io/pages/articles/</link>
+      <link>https://caffa.github.io/pages/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://caffa.github.io/pamelawang.github.io/pages/articles/</guid>
+      <guid>https://caffa.github.io/pages/articles/</guid>
       <description>Do like a curated guide to all my articles (see david perell)</description>
     </item>
     
     <item>
       <title>Log</title>
-      <link>https://caffa.github.io/pamelawang.github.io/pages/log/</link>
+      <link>https://caffa.github.io/pages/log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://caffa.github.io/pamelawang.github.io/pages/log/</guid>
+      <guid>https://caffa.github.io/pages/log/</guid>
       <description>Automated rollup archive of all my posts (by category?)</description>
     </item>
     
     <item>
       <title>Newsletter</title>
-      <link>https://caffa.github.io/pamelawang.github.io/pages/newsletter/</link>
+      <link>https://caffa.github.io/pages/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://caffa.github.io/pamelawang.github.io/pages/newsletter/</guid>
+      <guid>https://caffa.github.io/pages/newsletter/</guid>
       <description>Some place holder text
 Do a fancy phone thing + some nice border + some archived newsletters and signup email form</description>
     </item>
