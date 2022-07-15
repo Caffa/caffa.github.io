@@ -6,7 +6,7 @@
     <description>Recent content in Hi (〃＾▽＾〃)/ on Pamela Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Weekly Review in Obsidian</title>
       <link>https://caffa.github.io/posts/my-blogpost-automated-weekly-review-in-obsidian/</link>
@@ -14,11 +14,8 @@
       
       <guid>https://caffa.github.io/posts/my-blogpost-automated-weekly-review-in-obsidian/</guid>
       <description>mode:: #mode/youtuber🏙️ kind:: #Project/Articles📰 status:: #Status/Focus❗
-(post in progress, here are some quick notes) waiting for when I summarize YT Video - automated weekly review in obsidian and maybe the comment I had explaining where the weekly review fits into daily schedule
-What&amp;rsquo;s in a Weekly Review Purpose of the weekly review
-Based off GTD
-Structure of my weekly review
-Video I have a video on this at Obsidian Workflow: Speed up your Weekly Review - YouTube</description>
+%%(post in progress, here are some quick notes) waiting for when I summarize YT Video - automated weekly review in obsidian and maybe the comment I had explaining where the weekly review fits into daily schedule%%
+What&amp;rsquo;s in a Weekly Review My weekly review is based off the GTD weekly review. Think of it as being more intentional about what you are spending your time on and as a catch-all for todos that you can&amp;rsquo;t immediately do.</description>
     </item>
     
     <item>
@@ -38,6 +35,17 @@ TODO More indepth about me :) - I would like something like https://aliabdaal.co
       
       <guid>https://caffa.github.io/pages/articles/</guid>
       <description>Do like a curated guide to all my articles (see david perell)</description>
+    </item>
+    
+    <item>
+      <title>Calendar Priority Alignment</title>
+      <link>https://caffa.github.io/zettels/zcon-calendar-priority-alignment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/zettels/zcon-calendar-priority-alignment/</guid>
+      <description>mode:: #mode/zettelkasten🗳️ kind:: #Z/Concept🪴 topics:: ztop-prioritization ztop-Mental models date:: 2022-07-13 status:: #Zettel/Fleeting⚪ summary:: source:: Alex Brogan Newsletter
+Calendar-Priority Alignment “What are your priorities?” “If I look at your calendar, would it be obvious to me that those are your priorities?” Hack: Use your Calendar as your to-do list so that your highest priority to-dos actually get done.
+Key Idea You want to allocate your time according to your priorities. You can do this by Time-blocking where you create calendar events for each todo you want to do (usually for a week), this means that you set when you will do the thing and how long it will take.</description>
     </item>
     
     <item>
