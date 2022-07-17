@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pages on Pamela Wang</title>
     <link>https://caffa.github.io/pages/</link>
@@ -14,24 +14,6 @@
       <guid>https://caffa.github.io/pages/about/</guid>
       <description>Currently I am an AI 🎮 grad student in Singapore. I spend my free time reading webnovels and fanfics 📚 + trying to optimize my productivity system in Obsidian.
 TODO More indepth about me :) - I would like something like https://aliabdaal.com/about/ for layout of what I want this page to be like </description>
-    </item>
-    
-    <item>
-      <title>Articles</title>
-      <link>https://caffa.github.io/pages/articles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://caffa.github.io/pages/articles/</guid>
-      <description>Do like a curated guide to all my articles (see david perell)</description>
-    </item>
-    
-    <item>
-      <title>Log</title>
-      <link>https://caffa.github.io/pages/log/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://caffa.github.io/pages/log/</guid>
-      <description>Automated rollup archive of all my posts (by category?)</description>
     </item>
     
     <item>

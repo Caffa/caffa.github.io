@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Digital Garden on Pamela Wang</title>
     <link>https://caffa.github.io/zettels/</link>
     <description>Recent content in Digital Garden on Pamela Wang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://caffa.github.io/zettels/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/zettels/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Calendar Priority Alignment</title>
       <link>https://caffa.github.io/zettels/zcon-calendar-priority-alignment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://caffa.github.io/zettels/zcon-calendar-priority-alignment/</guid>
-      <description>mode:: #mode/zettelkasten🗳️ kind:: #Z/Concept🪴 topics:: ztop-prioritization ztop-Mental models date:: 2022-07-13 status:: #Zettel/Fleeting⚪ summary:: source:: Alex Brogan Newsletter
-Calendar-Priority Alignment “What are your priorities?” “If I look at your calendar, would it be obvious to me that those are your priorities?” Hack: Use your Calendar as your to-do list so that your highest priority to-dos actually get done.
-Key Idea You want to allocate your time according to your priorities. You can do this by Time-blocking where you create calendar events for each todo you want to do (usually for a week), this means that you set when you will do the thing and how long it will take.</description>
+      <description>A writeup of how I do my weekly review in obsidian</description>
     </item>
     
   </channel>

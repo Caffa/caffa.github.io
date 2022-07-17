@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hi (〃＾▽＾〃)/ on Pamela Wang</title>
     <link>https://caffa.github.io/</link>
     <description>Recent content in Hi (〃＾▽＾〃)/ on Pamela Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Automated Weekly Review in Obsidian</title>
-      <link>https://caffa.github.io/posts/my-blogpost-automated-weekly-review-in-obsidian/</link>
-      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://caffa.github.io/posts/my-blogpost-automated-weekly-review-in-obsidian/</guid>
-      <description>mode:: #mode/youtuber🏙️ kind:: #Project/Articles📰 status:: #Status/Focus❗
-%%(post in progress, here are some quick notes) waiting for when I summarize YT Video - automated weekly review in obsidian and maybe the comment I had explaining where the weekly review fits into daily schedule%%
-What&amp;rsquo;s in a Weekly Review My weekly review is based off the GTD weekly review. Think of it as being more intentional about what you are spending your time on and as a catch-all for todos that you can&amp;rsquo;t immediately do.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://caffa.github.io/pages/about/</link>
@@ -29,33 +18,55 @@ TODO More indepth about me :) - I would like something like https://aliabdaal.co
     </item>
     
     <item>
-      <title>Articles</title>
-      <link>https://caffa.github.io/pages/articles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>MetaPicker Template in Obsidian</title>
+      <link>https://caffa.github.io/posts/my-blogpost-metapicker-template-in-obsidian/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://caffa.github.io/pages/articles/</guid>
-      <description>Do like a curated guide to all my articles (see david perell)</description>
+      <guid>https://caffa.github.io/posts/my-blogpost-metapicker-template-in-obsidian/</guid>
+      <description>Status This is the script for my meta-template picker video Obsidian: Building the Meta-Templater from Scratch - YouTube.
+Currently working on this blog post
+Post Today I want to share, how to use a meta-templater in your workflow
+so first, What is the meta-templater
+(what it does - trigger template based on name of the file) Bryan Jenks
+Bryan Jenks first coined this term, he adds this symbol in front of his links so it tells obsidian what kind of note this is supposed to be, so example a book source note.</description>
+    </item>
+    
+    <item>
+      <title>CSS Tester</title>
+      <link>https://caffa.github.io/private/css-tester/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/private/css-tester/</guid>
+      <description>A page to test css on my blog</description>
+    </item>
+    
+    <item>
+      <title>How I consume content and auto collect notes</title>
+      <link>https://caffa.github.io/posts/my-blogpost-how-i-consume-content-and-auto-collect-notes/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/posts/my-blogpost-how-i-consume-content-and-auto-collect-notes/</guid>
+      <description>sources of where I get content external discord obsidian, obsidian forums fiction - inspired thinking articles - david perell essays anything of interest shortform newsletters blogs - elizabeth book notes courses papers → zotero → pdf highlights (can make a seperate post on this) - can highlight on mac or on ipad and send back keeping track of my own experiments in obsidian what do I do Focus on auto collection as much as possible - I tried like putting it in notes apps but having to process takes a lot of time (curation vs convenience) highlight the thing auto collected by readwise mac: hypothesis for articles, videos just write in obsidian ipad: command browser android: twitter is readwise, snipd for podcast notes braintoss to daily note iphone: braintoss → email → my script android: braintoss ipad: braintoss process in obsidian things I am exploring pkm thinking tools scrintal logseq - like it but also outliners not good for export to other people link to video comparing the 3 for zettelkasten purposes apps read it later apps (instapaper) - but I have command browser on ipad which is a one time purchase kindles I actually don&amp;rsquo;t really read books that much?</description>
+    </item>
+    
+    <item>
+      <title>Automated Weekly Review in Obsidian</title>
+      <link>https://caffa.github.io/posts/my-blogpost-automated-weekly-review-in-obsidian/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/posts/my-blogpost-automated-weekly-review-in-obsidian/</guid>
+      <description>A writeup of how I do my weekly review in obsidian</description>
     </item>
     
     <item>
       <title>Calendar Priority Alignment</title>
       <link>https://caffa.github.io/zettels/zcon-calendar-priority-alignment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://caffa.github.io/zettels/zcon-calendar-priority-alignment/</guid>
-      <description>mode:: #mode/zettelkasten🗳️ kind:: #Z/Concept🪴 topics:: ztop-prioritization ztop-Mental models date:: 2022-07-13 status:: #Zettel/Fleeting⚪ summary:: source:: Alex Brogan Newsletter
-Calendar-Priority Alignment “What are your priorities?” “If I look at your calendar, would it be obvious to me that those are your priorities?” Hack: Use your Calendar as your to-do list so that your highest priority to-dos actually get done.
-Key Idea You want to allocate your time according to your priorities. You can do this by Time-blocking where you create calendar events for each todo you want to do (usually for a week), this means that you set when you will do the thing and how long it will take.</description>
+      <description>A writeup of how I do my weekly review in obsidian</description>
     </item>
     
-    <item>
-      <title>Log</title>
-      <link>https://caffa.github.io/pages/log/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://caffa.github.io/pages/log/</guid>
-      <description>Automated rollup archive of all my posts (by category?)</description>
-    </item>
     
     <item>
       <title>Newsletter</title>
