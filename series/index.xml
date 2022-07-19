@@ -6,7 +6,16 @@
     <description>Recent content in Series on Pamela Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Tech Setup</title>
+      <link>https://caffa.github.io/series/my-tech-setup/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/series/my-tech-setup/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Obsidian Mods</title>
       <link>https://caffa.github.io/series/obsidian-mods/</link>

@@ -6,7 +6,7 @@
     <description>Recent content in Start Here on Pamela Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://caffa.github.io/pages/about/</link>
@@ -15,6 +15,36 @@
       <guid>https://caffa.github.io/pages/about/</guid>
       <description>Currently I am an AI 🎮 grad student in Singapore. I spend my free time reading webnovels and fanfics 📚 + trying to optimize my productivity system in Obsidian.
 TODO More indepth about me :) - I would like something like https://aliabdaal.com/about/ for layout of what I want this page to be like </description>
+    </item>
+    
+    <item>
+      <title>Caution note for using dropbox and obsidian sync</title>
+      <link>https://caffa.github.io/posts/my-blogpost-caution-note-for-using-dropbox-and-obsidian-sync/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/posts/my-blogpost-caution-note-for-using-dropbox-and-obsidian-sync/</guid>
+      <description>How to use both dropbox and obsidian sync so that you don&amp;#39;t get weird missing files</description>
+    </item>
+    
+    <item>
+      <title>My Keyboard Layout - Colemakdh</title>
+      <link>https://caffa.github.io/posts/my-blogpost-colemak-dh/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/posts/my-blogpost-colemak-dh/</guid>
+      <description>How I learnt to type on the colemak dh layout and my experience with this keyboard layout.</description>
+    </item>
+    
+    <item>
+      <title>My Setup for Working in Bed</title>
+      <link>https://caffa.github.io/posts/my-blogpost-my-working-in-bed-setup/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/posts/my-blogpost-my-working-in-bed-setup/</guid>
+      <description>Intro If you work from home then you probably have tried to work in bed before :) but it is rather uncomfortable with a tiny laptop and suspending an actual monitor right above my face is a bit scary (it might drop&amp;hellip; directly onto my head) so my current solution is: a projector!
+Downsides of a projector? It is super loud.
+Basic Setup You need:
+a projector (hdmi input) that is hopefully not too loud some computer (can be headless like the mac mini) if the computer does not have a hdmi slot then you also need a dongle mouse or even a trackball split keyboard (two parts of keyboard attached by cable) cables computer to projector (hdmi to hdmi) keyboard to computer (USB C to USB C for moonlander) - this needs to be a long cable (1.</description>
     </item>
     
     <item>

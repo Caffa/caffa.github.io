@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Tech Setup on Pamela Wang</title>
+    <link>https://caffa.github.io/series/my-tech-setup/</link>
+    <description>Recent content in My Tech Setup on Pamela Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/series/my-tech-setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Keyboard Layout - Colemakdh</title>
+      <link>https://caffa.github.io/posts/my-blogpost-colemak-dh/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/posts/my-blogpost-colemak-dh/</guid>
+      <description>How I learnt to type on the colemak dh layout and my experience with this keyboard layout.</description>
+    </item>
+    
+    <item>
+      <title>My Setup for Working in Bed</title>
+      <link>https://caffa.github.io/posts/my-blogpost-my-working-in-bed-setup/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/posts/my-blogpost-my-working-in-bed-setup/</guid>
+      <description>Intro If you work from home then you probably have tried to work in bed before :) but it is rather uncomfortable with a tiny laptop and suspending an actual monitor right above my face is a bit scary (it might drop&amp;hellip; directly onto my head) so my current solution is: a projector!
+Downsides of a projector? It is super loud.
+Basic Setup You need:
+a projector (hdmi input) that is hopefully not too loud some computer (can be headless like the mac mini) if the computer does not have a hdmi slot then you also need a dongle mouse or even a trackball split keyboard (two parts of keyboard attached by cable) cables computer to projector (hdmi to hdmi) keyboard to computer (USB C to USB C for moonlander) - this needs to be a long cable (1.</description>
+    </item>
+    
+  </channel>
+</rss>
