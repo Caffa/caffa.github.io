@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Entry Points on Pamela Wang</title>
+    <link>https://caffa.github.io/tags/entry-points/</link>
+    <description>Recent content in Entry Points on Pamela Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/tags/entry-points/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My List of Questions</title>
+      <link>https://caffa.github.io/zettels/z-my-list-of-questions/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/zettels/z-my-list-of-questions/</guid>
+      <description>Somewhat like the idea of My 12 Favourite Questions but instead this is a list of every question I have that I plan on working through, and the answers I found for each (usually sent to [ Zettel Inbox](Z%20-%20Zettel%20Inbox.md))</description>
+    </item>
+    
+    <item>
+      <title>Zettel Inbox</title>
+      <link>https://caffa.github.io/zettels/z-zettel-inbox/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/zettels/z-zettel-inbox/</guid>
+      <description>I&amp;#39;ll put any zettels that I want to create (maybe) here, currently I am going through some digital gardens ([List of digital gardens from obsidian roundup](https://lukerambling.de/gardens/)) and I think some of them resonate tho I have different interpretations</description>
+    </item>
+    
+  </channel>
+</rss>
