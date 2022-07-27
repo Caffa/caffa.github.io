@@ -6,15 +6,27 @@
     <description>Recent content in Start Here on Pamela Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://caffa.github.io/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://caffa.github.io/pages/about/</guid>
-      <description>Currently I am an AI 🎮 grad student in Singapore. I spend my free time reading webnovels and fanfics 📚 + trying to optimize my productivity system in Obsidian.
-TODO More indepth about me :) - I would like something like https://aliabdaal.com/about/ for layout of what I want this page to be like </description>
+      <description>About Me As of July 2022, I am a PhD student in Singapore (AI 🎮 &amp;gt; MARL &amp;gt; Comms Learning). I like to optimize and automate my productivity system in Obsidian and my daily routines. I am often inspired by webnovels and fanfics I read 📚 so you may see quotes sparking zettels in my Zettelkasten
+What I&amp;rsquo;m Working On I&amp;rsquo;ve decided to be a Content Creator 👩‍💼 Why create content.</description>
+    </item>
+    
+    <item>
+      <title>You only improve what you measure</title>
+      <link>https://caffa.github.io/zettels/z-you-only-improve-what-you-measure/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/zettels/z-you-only-improve-what-you-measure/</guid>
+      <description>source::
+Definition “If you can’t measure it you can’t improve it.” Peter Drucker
+You need to track the things you want to work on, not just rely on a sense that &amp;ldquo;ehh I am getting healthier&amp;rdquo;
+Tracking things makes you subconsciously change your behaviour? (TODO find that article about how weighing self everyday makes people adjust their food intake) You don&amp;rsquo;t really know unless you take the scientific approach: eliminate other variables as much as possible, repeatedly test (with a control) and see if the effect is repeated.</description>
     </item>
     
     <item>
@@ -227,7 +239,7 @@ I remember that this is linked to the idea of Individualism as self and other ci
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://caffa.github.io/zettels/z-zettel-inbox/</guid>
-      <description>I&amp;#39;ll put any zettels that I want to create (maybe) here, currently I am going through some digital gardens ([List of digital gardens from obsidian roundup](https://lukerambling.de/gardens/)) and I think some of them resonate tho I have different interpretations</description>
+      <description>I&amp;#39;ll put any zettels that I want to create (maybe) here, currently I am going through some digital gardens ([List of digital gardens from obsidian roundup](https://lukerambling.de/gardens/)) and I think some of them resonate tho I have different interpretations.</description>
     </item>
     
     <item>
@@ -373,6 +385,19 @@ Bryan Jenks first coined this term, he adds this symbol in front of his links so
       <guid>https://caffa.github.io/posts/my-blogpost-how-i-consume-content-and-auto-collect-notes/</guid>
       <description>TODO Video link here
 sources of where I get content external discord obsidian, obsidian forums fiction - inspired thinking articles - david perell essays anything of interest shortform newsletters blogs - elizabeth book notes courses papers → zotero → pdf highlights (can make a seperate post on this) - can highlight on mac or on ipad and send back keeping track of my own experiments in obsidian what do I do Focus on auto collection as much as possible - I tried like putting it in notes apps but having to process takes a lot of time (curation vs convenience) highlight the thing auto collected by readwise mac: hypothesis for articles, videos just write in obsidian ipad: command browser android: twitter is readwise, snipd for podcast notes braintoss to daily note iphone: braintoss → email → my script android: braintoss ipad: braintoss process in obsidian things I am exploring pkm thinking tools scrintal logseq - like it but also outliners not good for export to other people link to video comparing the 3 for zettelkasten purposes apps read it later apps (instapaper) - but I have command browser on ipad which is a one time purchase kindles I actually don&amp;rsquo;t really read books that much?</description>
+    </item>
+    
+    <item>
+      <title>Goodhart&#39;s Law</title>
+      <link>https://caffa.github.io/zettels/z-goodharts-law/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/zettels/z-goodharts-law/</guid>
+      <description>Source Any observed statistical regularity will tend to collapse once pressue is placed upon it for control purposes
+[!Quote] Once a measure becaomes a target, it ceases to be a good measure
+This quote actually came from Hoskin
+Related The invention of the rational self - Hoskin
+Hoskin &amp;ldquo;The Awful Idea of Accountability&amp;rdquo; - the invention of measureable targets → you are arguing you can derive normative properties of the world with physical natural properties of the world - he says you can&amp;rsquo;t actually do this, there is something extra that you must account for</description>
     </item>
     
     <item>

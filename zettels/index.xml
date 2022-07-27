@@ -6,7 +6,19 @@
     <description>Recent content in Zettelkasten on Pamela Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/zettels/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://caffa.github.io/zettels/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You only improve what you measure</title>
+      <link>https://caffa.github.io/zettels/z-you-only-improve-what-you-measure/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/zettels/z-you-only-improve-what-you-measure/</guid>
+      <description>source::
+Definition “If you can’t measure it you can’t improve it.” Peter Drucker
+You need to track the things you want to work on, not just rely on a sense that &amp;ldquo;ehh I am getting healthier&amp;rdquo;
+Tracking things makes you subconsciously change your behaviour? (TODO find that article about how weighing self everyday makes people adjust their food intake) You don&amp;rsquo;t really know unless you take the scientific approach: eliminate other variables as much as possible, repeatedly test (with a control) and see if the effect is repeated.</description>
+    </item>
+    
     <item>
       <title>customizing our setup has hidden costs</title>
       <link>https://caffa.github.io/zettels/z-customizing-our-setup-has-hidden-costs/</link>
@@ -207,7 +219,7 @@ I remember that this is linked to the idea of Individualism as self and other ci
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://caffa.github.io/zettels/z-zettel-inbox/</guid>
-      <description>I&amp;#39;ll put any zettels that I want to create (maybe) here, currently I am going through some digital gardens ([List of digital gardens from obsidian roundup](https://lukerambling.de/gardens/)) and I think some of them resonate tho I have different interpretations</description>
+      <description>I&amp;#39;ll put any zettels that I want to create (maybe) here, currently I am going through some digital gardens ([List of digital gardens from obsidian roundup](https://lukerambling.de/gardens/)) and I think some of them resonate tho I have different interpretations.</description>
     </item>
     
     <item>
@@ -290,6 +302,19 @@ Hence we should z-express to think through the idea and z-write for other people
       
       <guid>https://caffa.github.io/zettels/zcon-calendar-priority-alignment/</guid>
       <description>A writeup of how I do my weekly review in obsidian</description>
+    </item>
+    
+    <item>
+      <title>Goodhart&#39;s Law</title>
+      <link>https://caffa.github.io/zettels/z-goodharts-law/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caffa.github.io/zettels/z-goodharts-law/</guid>
+      <description>Source Any observed statistical regularity will tend to collapse once pressue is placed upon it for control purposes
+[!Quote] Once a measure becaomes a target, it ceases to be a good measure
+This quote actually came from Hoskin
+Related The invention of the rational self - Hoskin
+Hoskin &amp;ldquo;The Awful Idea of Accountability&amp;rdquo; - the invention of measureable targets → you are arguing you can derive normative properties of the world with physical natural properties of the world - he says you can&amp;rsquo;t actually do this, there is something extra that you must account for</description>
     </item>
     
     <item>
